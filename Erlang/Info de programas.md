@@ -1,3 +1,6 @@
+# Erlang
+### El codigo son los archivos con extensión .erl los archivos .beam son los archivos creados al compilar el codigo fuente.
+
 ## fac
 
 Realiza el factorial de un número dado.
