@@ -1,5 +1,5 @@
 # Erlang
-##### *El codigo son los archivos con extensión .erl los archivos .beam son los archivos creados al compilar el codigo fuente.*
+##### *El codigo son los archivos con extensión .erl los archivos .beam son los archivos creados al compilar el codigo fuente. Estos programas fueron hechos utilizando el compilador de Erlang disponible en Linux(Archlabs)*
 
 ## fac
 
